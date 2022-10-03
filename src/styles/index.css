@@ -1,0 +1,14 @@
+.row {
+    background-color: gray;
+    height: 160px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+i {
+    font-size: 100px;
+}
+.col-2 {
+    font-size: 100px;
+    color: black;
+}
